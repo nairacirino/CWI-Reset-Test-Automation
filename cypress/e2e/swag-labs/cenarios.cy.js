@@ -1,4 +1,5 @@
-/// <reference types="cypress" />
+///<reference types="cypress"/>
+
 import LoginPage from '../../pages/login-page'
 import ProductsPage from '../../pages/products-page'
 import CartPage from '../../pages/cart-page'
